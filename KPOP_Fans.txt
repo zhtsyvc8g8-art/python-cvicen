@@ -1,0 +1,201 @@
+FanID;Gender;Age;Country;Group;Bias;MerchSpend_EUR
+F001;M;30;Denmark;SEVENTEEN;S.Coups;66
+F002;M;41;Brazil;LE SSERAFIM;Kazuha;49.03
+F003;F;17;Brazil;BLACKPINK;Jennie;8
+F004;F;28;Philippines;LE SSERAFIM;Kim Chaewon;18
+F005;M;12;Japan;TWICE;Momo;29.63
+F006;F;28;Philippines;SEVENTEEN;The8;44
+F007;M;39;Finland;ILLIT;Wonhee;279.08
+F008;M;35;Vietnam;TOMORROW X TOGETHER;Taehyun;104,57
+F009;F;10;Germany;LE SSERAFIM;Hong Eunchae;21
+F010;M;25;South Korea;ILLIT;Wonhee;183
+F011;F;9;Netherlands;LE SSERAFIM;Kazuha;17,95
+F012;M;11;Brazil;LE SSERAFIM;Kim Chaewon;36,63
+F013;F;12;Brazil;TOMORROW X TOGETHER;Soobin;53
+F014;M;25;Netherlands;Stray Kids;Seungmin;0
+F015;F;21;United States;BTS;V;67
+F016;F;16;Germany;ILLIT;Minju;64.43
+F017;M;12;Denmark;LE SSERAFIM;Kim Chaewon;24
+F018;F;42;Germany;TWICE;Nayeon;259
+F019;F;24;Vietnam;BLACKPINK;Rose;80.90
+F020;F;38;South Korea;LE SSERAFIM;Kazuha;38
+F021;F;22;South Korea;BTS;V;52.32
+F022;F;24;Germany;ENHYPEN;Sunoo;35
+F023;F;42;Germany;TOMORROW X TOGETHER;Taehyun;113
+F024;F;36;Brazil;TOMORROW X TOGETHER;Huening Kai;63,35
+F025;F;25;Japan;SEVENTEEN;Woozi;100,56
+F026;F;12;Australia;ENHYPEN;Sunghoon;41
+F027;F;35;Germany;BTS;Jimin;7
+F028;F;7;Germany;ENHYPEN;Jake;15.78
+F029;F;12;Finland;ENHYPEN;Sunoo;179.34
+F030;M;10;Brazil;TOMORROW X TOGETHER;Yeonjun;NA
+F031;NA;36;Brazil;ILLIT;Moka;71.42
+F032;F;8;Germany;BTS;Jungkook;49
+F033;M;20;Vietnam;SEVENTEEN;Vernon;125
+F034;F;16;Brazil;ENHYPEN;Ni-ki;28
+F035;M;32;Denmark;BLACKPINK;Rose;80
+F036;F;13;Vietnam;TWICE;Sana;143
+F037;F;29;Netherlands;SEVENTEEN;Mingyu;96
+F038;M;14;Australia;ENHYPEN;Sunoo;65.66
+F039;M;32;Netherlands;ILLIT;Yunah;67
+F040;F;21;China;ENHYPEN;Sunghoon;34,74
+F041;F;21;Brazil;TOMORROW X TOGETHER;Beomgyu;62
+F042;M;14;Netherlands;LE SSERAFIM;Sakura;110.24
+F043;F;34;Philippines;TWICE;Sana;47
+F044;F;30;South Korea;Stray Kids;Hyunjin;82
+F045;F;14;Germany;ENHYPEN;Jungwon;97,42
+F046;F;22;Denmark;TWICE;Jeongyeon;171
+F047;NA;7;Finland;NewJeans;Hyein;9
+F048;F;11;Finland;TWICE;Momo;35,49
+F049;M;27;China;TWICE;Jeongyeon;1`78
+F050;F;7;Philippines;TWICE;Chaeyoung;41,56
+F051;NA;28;China;Stray Kids;Lee Know;-18
+F052;M;9;Denmark;BLACKPINK;Jennie;30
+F053;NA;41;Australia;TWICE;Nayeon;223
+F054;M;8;Finland;TWICE;Tzuyu;14
+F055;M;19;Germany;BLACKPINK;Jennie;90
+F056;M;18;South Korea;BLACKPINK;Rose;4487
+F057;M;13;Netherlands;SEVENTEEN;The8;184.67
+F058;F;19;Germany;NewJeans;Haerin;203
+F059;NA;21;Netherlands;LE SSERAFIM;Hong Eunchae;101
+F060;F;7;Netherlands;ILLIT;Yunah;0
+F061;F;31;Japan;ILLIT;Moka;72,89
+F062;M;32;Brazil;BTS;J-Hope;457
+F063;M;10;Philippines;SEVENTEEN;Seungkwan;7`3
+F064;M;41;United States;ENHYPEN;Sunghoon;28
+F065;F;22;Germany;Stray Kids;Changbin;27
+F066;F;15;Japan;ENHYPEN;Jay;79
+F067;M;27;China;TWICE;Jihyo;61
+F068;M;12;Brazil;SEVENTEEN;Seungkwan;39
+F069;M;24;Japan;NewJeans;Minji;57,15
+F070;M;25;Denmark;TWICE;Nayeon;51.27
+F071;M;30;Australia;BTS;Jimin;174
+F072;F;42;China;TOMORROW X TOGETHER;Beomgyu;166.62
+F073;M;15;Philippines;BTS;Jimin;14O
+F074;M;8;South Korea;NewJeans;Minji;31
+F075;F;8;United States;LE SSERAFIM;Huh Yunjin;63
+F076;M;18;United States;NewJeans;Minji;22,97
+F077;M;9;China;ENHYPEN;Heeseung;10.76
+F078;M;27;Japan;Stray Kids;Changbin;205
+F079;F;34;Denmark;TOMORROW X TOGETHER;Yeonjun;55.95
+F080;M;18;South Korea;LE SSERAFIM;Kim Chaewon;101
+F081;F;38;Philippines;ILLIT;Iroha;345
+F082;NA;25;Denmark;BLACKPINK;Jisoo;57.57
+F083;M;36;Denmark;LE SSERAFIM;Hong Eunchae;35
+F084;NA;16;Netherlands;BLACKPINK;Jisoo;7,47
+F085;F;31;Denmark;SEVENTEEN;Mingyu;69
+F086;NA;7;Denmark;SEVENTEEN;Joshua;28
+F087;M;29;South Korea;Stray Kids;Lee Know;171,91
+F088;NA;20;Australia;ILLIT;Iroha;52
+F089;F;27;Brazil;ILLIT;Minju;63
+F090;F;22;Philippines;ILLIT;Iroha;72
+F091;NA;32;Netherlands;BTS;Jimin;105.21
+F092;M;32;Denmark;LE SSERAFIM;Kim Chaewon;133
+F093;M;15;Netherlands;ILLIT;Wonhee;46.16
+F094;F;15;United States;NewJeans;Haerin;100,40
+F095;F;28;China;BTS;Suga;106
+F096;F;9;Germany;BTS;Jimin;34
+F097;M;36;Philippines;SEVENTEEN;Vernon;247.26
+F098;F;38;Japan;BTS;RM;19
+F099;M;9;Denmark;TWICE;Chaeyoung;5238
+F100;F;30;United States;LE SSERAFIM;Kim Chaewon;0
+F101;F;40;United States;LE SSERAFIM;Hong Eunchae;29,57
+F102;M;32;Japan;SEVENTEEN;Seungkwan;89.85
+F103;F;40;Australia;ENHYPEN;Sunoo;37
+F104;F;39;Philippines;TWICE;Sana;60
+F105;F;12;United States;TWICE;Mina;32.91
+F106;F;7;Denmark;Stray Kids;Hyunjin;28.02
+F107;M;9;Philippines;BTS;Jimin;153
+F108;M;36;Vietnam;ILLIT;Minju;74
+F109;F;14;Netherlands;Stray Kids;Lee Know;27
+F110;M;20;South Korea;NewJeans;Minji;4`3.73
+F111;F;33;Finland;SEVENTEEN;The8;61,94
+F112;M;26;China;Stray Kids;Hyunjin;56
+F113;F;38;Netherlands;LE SSERAFIM;Kazuha;13173
+F114;F;37;Germany;BLACKPINK;Jisoo;46
+F115;F;18;Australia;LE SSERAFIM;Sakura;124.01
+F116;F;15;Vietnam;BTS;Suga;-62
+F117;M;31;Japan;BLACKPINK;Rose;32
+F118;F;24;Australia;SEVENTEEN;Joshua;76
+F119;F;24;Brazil;ENHYPEN;Heeseung;48.31
+F120;M;14;Germany;ENHYPEN;Heeseung;81
+F121;F;42;United States;TWICE;Mina;0
+F122;F;40;Netherlands;ILLIT;Minju;74,22
+F123;M;37;Germany;ILLIT;Moka;NA
+F124;M;24;South Korea;SEVENTEEN;Hoshi;NA
+F125;F;30;Japan;LE SSERAFIM;Sakura;95.55
+F126;F;14;South Korea;BTS;Jimin;69
+F127;F;7;Finland;NewJeans;Haerin;-104.29
+F128;M;32;Australia;LE SSERAFIM;Huh Yunjin;16,85
+F129;F;22;Denmark;TOMORROW X TOGETHER;Yeonjun;41
+F130;F;36;Vietnam;SEVENTEEN;Seungkwan;0
+F131;F;26;United States;BTS;Jin;84
+F132;M;13;Philippines;BTS;Jin;48.77
+F133;F;19;Brazil;BLACKPINK;Lisa;94
+F134;F;7;Japan;LE SSERAFIM;Kazuha;232
+F135;M;16;Denmark;TOMORROW X TOGETHER;Yeonjun;5872
+F136;F;34;Brazil;ILLIT;Yunah;87
+F137;F;20;Denmark;SEVENTEEN;Seungkwan;44,21
+F138;M;24;Japan;ILLIT;Minju;190.30
+F139;M;42;Vietnam;NewJeans;Hyein;29.85
+F140;F;32;Netherlands;LE SSERAFIM;Sakura;57
+F141;M;21;Denmark;TOMORROW X TOGETHER;Yeonjun;98,93
+F142;F;11;Japan;SEVENTEEN;Wonwoo;63,66
+F143;M;31;Vietnam;ILLIT;Moka;98
+F144;M;32;United States;BTS;Jin;133.98
+F145;NA;37;United States;TOMORROW X TOGETHER;Taehyun;0
+F146;F;18;Germany;TWICE;Nayeon;50
+F147;F;32;Germany;BTS;J-Hope;74
+F148;M;23;Finland;SEVENTEEN;Mingyu;186
+F149;M;37;China;LE SSERAFIM;Kazuha;79
+F150;F;24;Japan;BLACKPINK;Rose;66
+F151;F;17;Finland;SEVENTEEN;Joshua;85
+F152;F;40;Netherlands;ENHYPEN;Jake;none
+F153;NA;33;South Korea;NewJeans;Minji;26
+F154;M;19;Denmark;SEVENTEEN;Mingyu;113
+F155;M;26;Vietnam;LE SSERAFIM;Sakura;38,70
+F156;M;8;United States;TWICE;Mina;40.33
+F157;F;27;Brazil;TOMORROW X TOGETHER;Soobin;29
+F158;M;25;China;BLACKPINK;Lisa;44
+F159;M;17;United States;Stray Kids;Bang Chan;none
+F160;F;28;Finland;ILLIT;Wonhee;32
+F161;F;8;Denmark;Stray Kids;I.N;28.09
+F162;M;32;Australia;BLACKPINK;Lisa;NA
+F163;NA;18;South Korea;TWICE;Momo;0
+F164;F;30;Philippines;Stray Kids;Felix;47
+F165;F;35;Germany;TWICE;Tzuyu;114.57
+F166;F;28;Germany;BLACKPINK;Rose;141
+F167;F;21;Brazil;ILLIT;Iroha;517
+F168;F;33;Philippines;BTS;V;329.80
+F169;M;16;Germany;Stray Kids;Seungmin;NA
+F170;F;14;China;NewJeans;Minji;232
+F171;M;18;Brazil;ENHYPEN;Jay;60.50
+F172;M;26;Japan;Stray Kids;Changbin;187
+F173;M;19;Netherlands;ILLIT;Minju;48.72
+F174;M;12;China;SEVENTEEN;Jeonghan;54
+F175;F;24;Japan;ENHYPEN;Jungwon;88
+F176;M;36;Finland;ILLIT;Yunah;53
+F177;M;30;United States;SEVENTEEN;S.Coups;111
+F178;NA;31;Brazil;NewJeans;Minji;159
+F179;NA;42;South Korea;NewJeans;Minji;0
+F180;M;26;Australia;NewJeans;Hyein;33
+F181;F;39;Philippines;NewJeans;Hyein;22
+F182;F;19;South Korea;TOMORROW X TOGETHER;Yeonjun;67
+F183;NA;36;Denmark;LE SSERAFIM;Hong Eunchae;30,15
+F184;M;27;Germany;BTS;Jimin;80.65
+F185;F;19;Netherlands;BTS;Suga;79
+F186;F;18;Netherlands;NewJeans;Hyein;54
+F187;M;37;Germany;BTS;V;21
+F188;F;14;China;SEVENTEEN;S.Coups;55.67
+F189;F;8;Australia;BTS;J-Hope;22,67
+F190;F;24;Finland;Stray Kids;Lee Know;21
+F191;F;42;Finland;NewJeans;Hyein;128.94
+F192;F;36;Netherlands;BTS;RM;70
+F193;F;36;Netherlands;TOMORROW X TOGETHER;Soobin;84
+F194;NA;9;Denmark;BTS;V;52
+F195;F;38;Australia;BTS;Jungkook;202
+F196;F;20;Germany;ENHYPEN;Ni-ki;28.08
+F197;F;27;Philippines;Stray Kids;Changbin;515
+F198;M;27;Japan;TOMORROW X TOGETHER;Taehyun;47
+F199;M;14;Finland;ENHYPEN;Jay;86
+F200;F;28;United States;BTS;Jin;124
